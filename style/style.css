@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#about-image{
+   width: 80%; 
+}
+.placeholder-1 placeholder{
+    margin-left: 10px;
+}
